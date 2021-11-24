@@ -1,1 +1,8 @@
-C'est vraiment de la merde ce cours, rien ne marche.
+Au moins, je comprends ce que fait github maintenant.
+Commandes:
+git user.email ""
+git clone
+ouvrir le fichier dans vs code
+git commit -m "un commit"
+git pull
+git push
