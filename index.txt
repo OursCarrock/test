@@ -8,3 +8,7 @@ git commit -m "un commit"
 git push
 
 Pour mettre à jour ton dépot sur ta machine par rapport à github : git pull
+Créer une branche: git checkout -b "nom branche"
+se déplacer d'une branche à l'autre: git checkout "nom branche"
+voir les branches: git branch
+supprimer branches: git branch -d nom branche
