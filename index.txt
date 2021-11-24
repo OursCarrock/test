@@ -3,6 +3,8 @@ Commandes:
 git user.email ""
 git clone
 ouvrir le fichier dans vs code
+git add
 git commit -m "un commit"
-git pull
 git push
+
+Pour mettre à jour ton dépot sur ta machine par rapport à github : git pull
